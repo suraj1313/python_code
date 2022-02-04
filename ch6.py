@@ -5,3 +5,4 @@ yup = text.find(' ')
 good = text[yup:]
 fgfg = float(good)
 print(fgfg)
+print("Hello world)
